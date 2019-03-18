@@ -44,3 +44,4 @@ testem.log
 
 #Virtual env
 /env
+.vscode/settings.json
